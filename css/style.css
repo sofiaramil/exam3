@@ -66,3 +66,63 @@
     margin-bottom: 15px;
 }
 
+.first__card {
+    display: flex;
+    gap: 19px;
+    margin-top: 28px;
+    
+}
+
+.first {
+    width: var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 7.png);
+}
+
+.second {
+    width: var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 8.png);
+}
+
+.third {
+    width: var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 9.png);
+}
+
+.fourth {
+    width: var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 10.png);
+}
+
+.second__card {
+    display: flex;
+    gap: 19px;
+    margin-top: 19px;
+}
+
+.fifth {
+    width: var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 11.png);
+}
+
+.sixth {
+    width: var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 12.png);
+}
+
+.seventh {
+    width:  var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 13.png);
+}
+
+.eighth {
+    width: var(--card-width);    
+    height: var(--card-height);
+    background-image: url(/img/Rectangle\ 14.png);
+}
