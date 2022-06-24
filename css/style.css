@@ -8,3 +8,61 @@
     justify-content: center;
     font-weight: 700;
 }
+
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--dark-color);
+    color: var(--base-color);
+}
+
+.main__content {
+    display: flex;
+    margin-top: 51px;
+    gap: 60px;
+}
+
+.content {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.main__line {
+    width: 559px;
+    height: 4px;
+    margin-top: 14px;
+    background-color: var(--main-color);
+}
+
+.main__description {
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 12px;
+}
+
+.main__info {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.main__btn {
+    width: 293px;
+    height: 50px;
+    border: 2px solid var(--base-color);
+    background-color: var(--dark-color);
+    color: var(--base-color);
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+}
+
+.portfolio__text {
+    margin-top: 104px;
+    margin-bottom: 15px;
+}
+
