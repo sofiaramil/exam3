@@ -126,3 +126,63 @@
     height: var(--card-height);
     background-image: url(/img/Rectangle\ 14.png);
 }
+
+.background {
+    width: 100%;
+    height: 100px;
+    background-color: var(--dark-color);
+}
+
+.footer {
+    width: 100%;
+    height: 205px;
+    background-color: var(--main-color);
+    color: var(--base-color);
+}
+
+.footer__content {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__icon {
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.footer__name {
+    font-weight: 700;
+    size: 22px;
+    margin-top: 41px;
+}
+
+.footer__contact {
+    margin-top: 6px;
+    font-weight: 400;
+    size: 18px;
+}
+
+.footer__country {
+    margin-top: 6px;
+    font-weight: 400;
+    size: 16px;
+}
+
+.footer__inc {
+    width: 100%;
+    height: 44px;
+    background-color: #16758A;
+    margin-top: 40px;
+}
+
+.inc {
+    font-weight: 500;
+    font-size: 12px;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+}
