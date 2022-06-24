@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,regular,italic,500,500italic,700,700italic);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu';
+}
+:root {
+    --main-color: #19849B;
+    --base-color: #fff;
+    --dark-color: #272A2F;
+    --card-width: 244.24px;
+    --card-height: 244.24px;
+}
+
